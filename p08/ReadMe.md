@@ -1,11 +1,8 @@
-Tammy, Goldie, Chava
+
 ===============================================================================
-Tammy Furman, ID 212224687, tammyfur212@gmail.com 
 
-Goldie Lemberger, ID 212369060, goldie9912@gmail.com 
-
-Chava Neiman, ID 567374928, chavaneiman1@gmail.com
-
+                                Tamar Furman
+                                
 ===============================================================================
 
                            Project 8 - VM translator
